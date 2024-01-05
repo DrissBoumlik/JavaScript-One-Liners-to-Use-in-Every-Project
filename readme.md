@@ -2,6 +2,19 @@ Source : https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every
 
 # JavaScript is a powerful language that can do a lot with very little code.
 
+Summary :
+* [1. How to Capitalize Text](#1-how-to-capitalize-text)
+* [2. How to Calculate Percent](#2-how-to-calculate-percent)
+* [3. How to Get a Random Element](#3-how-to-get-a-random-element)
+* [4. How to Remove Duplicate Elements](#4-how-to-remove-duplicate-elements)
+* [5. How to Sort Elements By Certain Property](#5-how-to-sort-elements-by-certain-property)
+* [6. How to Check if Arrays/Objects are Equal](#6-how-to-check-if-arraysobjects-are-equal)
+* [7. How to Count Number of Occurrences](#7-how-to-count-number-of-occurrences)
+* [8. How to Wait for a Certain Amount of Time](#8-how-to-wait-for-a-certain-amount-of-time)
+* [9. How to Use the Pluck Property from Array of Objects](#9-how-to-use-the-pluck-property-from-array-of-objects)
+* [10. How to Insert an Element at a Certain Position](#10-how-to-insert-an-element-at-a-certain-position)
+
+
 In some cases, the amount of code you need to write doesn't exceed more than a single line, which is why they are known as one-liners.
 
 Let's go through 10 essential one liners worth using in virtually every JavaScript project you create.
